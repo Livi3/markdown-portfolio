@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Raspberry Pi
+  - IOT
+  - Coding fun
+- Arduino
+- 3D Printing
